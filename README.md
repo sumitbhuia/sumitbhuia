@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sumitbhuia
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...c++
-- 💞️ I’m looking to collaborate on ...blockchain
-- 📫 How to reach me ...ig---> extremely.sumit
+- 📫 How to reach me ...telegram--> @bhuiaking
 
 <!---
 sumitbhuia/sumitbhuia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
