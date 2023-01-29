@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...blockchain development, android developemnt
 - 🌱 I’m currently learning ...c++
 - 📫 How to reach me ...telegram--> @bhuiaking
--                    ...instagram-> https://www.instagram.com/bsumitt/
+- 📫 How to reach me...instagram-> https://www.instagram.com/bsumitt/
 
 <!---
 sumitbhuia/sumitbhuia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
