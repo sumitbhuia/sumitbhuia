@@ -1,4 +1,4 @@
-![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
+![MasterHead](https://raw.githubusercontent.com/sumitbhuia/htmlproject/master/image1.gif?token=GHSAT0AAAAAACBWHPB4MYRPINFJSVRC3KTAZCECDVA)
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="49" />, I'm Sumit Bhuia</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
@@ -14,6 +14,9 @@
 - 📫 How to reach me **sumitbhuia100@gmail.com**
 
 - ⚡ Fun fact **I am quite funny !!**
+
+ <img align="right" src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" alt="Line" width="500" /> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
