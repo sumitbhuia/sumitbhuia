@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="49" />, I'm Sumit Bhuia</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
- <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Coding" width="500" /> 
+ <img align="right" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="Coding" width="500" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitbhuia&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbhuia" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bhuia_sumit" target="blank"><img src="https://img.shields.io/twitter/follow/bhuia_sumit?logo=twitter&style=for-the-badge" alt="bhuia_sumit" /></a> </p>
