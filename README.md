@@ -1,12 +1,13 @@
 ![MasterHead](https://github.com/sumitbhuia/htmlproject/blob/master/output-onlinegiftools.gif)
 
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="49" /> ‎ ‎ ‎ ‎ ‎ I'm Sumit Bhuia</h1>
-<h3 align="center">A passionate Android developer from India ‎ ‎ ‎ ‎ <img src="https://github.com/sumitbhuia/htmlproject/blob/master/Emoji%20gifs/AnimatedEmojies-512px-444.gif" width="50"/></h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="49" /> ‎ ‎  I'm Sumit Bhuia</h1>
+<h3 align="center">A passionate Android developer from India<img src="https://github.com/sumitbhuia/htmlproject/blob/master/Emoji%20gifs/AnimatedEmojies-512px-444.gif" width="50"/></h3>
 
- <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Coding" width="400" /> 
+ <img align="right" src="https://github.com/sumitbhuia/htmlproject/blob/master/code-coding.gif" width="330" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitbhuia&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbhuia" /> </p>
 <p align="left"> <a href="https://twitter.com/bhuia_sumit" target="blank"><img src="https://img.shields.io/twitter/follow/bhuia_sumit?logo=twitter&style=for-the-badge" alt="bhuia_sumit" /></a> </p>
+
 
 <img src="https://github.com/sumitbhuia/htmlproject/blob/master/Emoji%20gifs/AnimatedEmojies-512px-207.gif" width="40"/> ‎ ‎ ‎ ‎ ‎ ‎ I’m currently learning **Android Development**
 
@@ -65,7 +66,7 @@
 </p>
 
 <p align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=10000%&section=footer&text=Have%20a%20Nice%20Day"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=10000%&section=footer&text=Have%20a%20Nice%20Day!"/>
 </p>
 
 
