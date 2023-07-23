@@ -1,14 +1,17 @@
-![MasterHead](https://github.com/sumitbhuia/htmlproject/blob/master/output-onlinegiftools.gif)
+![MasterHead](https://www.linkpicture.com/q/output-onlinegiftools_7.gif)
 
 
-<h1 align="center">Hi <img src="https://ibb.co/6J1pNjQ" width="49" /> ‎ ‎  I'm Sumit Bhuia</h1>
-<h3 align="center">A passionate Android developer from India<img src="https://github.com/sumitbhuia/htmlproject/blob/master/Emoji%20gifs/AnimatedEmojies-512px-444.gif" width="50"/></h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="49" /> ‎ ‎  I'm Sumit Bhuia</h1>
+<h3 align="center">A passionate Android developer from India 🇮🇳 </h3>
 
- <img align="right" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp" width="330" /> 
+<!-- The right side gif -->
+ <img align="right" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp" width="330" />
+ 
+ <!-- Twitter visitors and badges -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitbhuia&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbhuia" /> </p>
 <p align="left"> <a href="https://twitter.com/bhuia_sumit" target="blank"><img src="https://img.shields.io/twitter/follow/bhuia_sumit?logo=twitter&style=for-the-badge" alt="bhuia_sumit" /></a> </p>
 
-
+<!-- Writter stuff -->
 <img src="https://github.com/sumitbhuia/htmlproject/blob/master/Emoji%20gifs/AnimatedEmojies-512px-207.gif" width="40"/> ‎ ‎ ‎ ‎ ‎ ‎ I’m currently learning **Android Development**
 
 <img src="https://github.com/sumitbhuia/htmlproject/blob/master/Emoji%20gifs/AnimatedEmojies-512px-197.gif" width="40"/> ‎ ‎ ‎ ‎ ‎ ‎ Ask me about **Kotlin, Android FrameWork**
@@ -54,14 +57,14 @@
 </table>
 
 <p align="center"><a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitbhuia&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitbhuia&show_icons=true&locale=enΩß&layout=compact&theme=radical&hide_border=true" /></a>
 </a></p>
 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="5px"/>
 
 <p align="center"><br><br>
   <samp>
-    <i>Thanks for visiting my profile.<br>If you found it interesting, please leave a <img src="https://github.com/sumitbhuia/htmlproject/blob/master/Emoji%20gifs/AnimatedEmojies-512px-159.gif" width="30"/></i> 
+    <i>Thanks for visiting my profile.<br>If you found it interesting, please leave a ⭐️ ></i> 
   </samp>
 </p>
 
