@@ -1,10 +1,10 @@
 ![MasterHead](https://github.com/sumitbhuia/htmlproject/blob/master/output-onlinegiftools.gif)
 
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="49" /> ‎ ‎  I'm Sumit Bhuia</h1>
+<h1 align="center">Hi <img src="https://ibb.co/6J1pNjQ" width="49" /> ‎ ‎  I'm Sumit Bhuia</h1>
 <h3 align="center">A passionate Android developer from India<img src="https://github.com/sumitbhuia/htmlproject/blob/master/Emoji%20gifs/AnimatedEmojies-512px-444.gif" width="50"/></h3>
 
- <img align="right" src="https://github.com/sumitbhuia/htmlproject/blob/master/code-coding.gif" width="330" /> 
+ <img align="right" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp" width="330" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitbhuia&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbhuia" /> </p>
 <p align="left"> <a href="https://twitter.com/bhuia_sumit" target="blank"><img src="https://img.shields.io/twitter/follow/bhuia_sumit?logo=twitter&style=for-the-badge" alt="bhuia_sumit" /></a> </p>
 
