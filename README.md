@@ -1,10 +1,14 @@
 ![MasterHead](https://www.linkpicture.com/q/output-onlinegiftools_7.gif)
 
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="49" /> ‎ ‎  I'm Sumit Bhuia</h1>
-<h3 align="center">A passionate Android developer from India 🇮🇳 </h3>
-
-<!-- The right side gif -->
+<!-- Animated name -->
+<h1 align="center">
+  <a>
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=42&pause=500&color=6cc644&center=true&vCenter=true&width=850&height=100&lines=I'm+Sumit+Bhuia!;Android DEV from India">
+  </a>
+</h1>
+ 
+<!-- The right side gif  -->
  <img align="right" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp" width="330" />
  
  <!-- Twitter visitors and badges -->
@@ -12,6 +16,7 @@
 <p align="left"> <a href="https://twitter.com/bhuia_sumit" target="blank"><img src="https://img.shields.io/twitter/follow/bhuia_sumit?logo=twitter&style=for-the-badge" alt="bhuia_sumit" /></a> </p>
 
 <!-- Written About Section stuff -->
+
 <pre>🌱   ‎ I’m currently learning Android Development</pre>
 
 <pre>🦾    Ask me about Kotlin,Android FrameWork</pre>
@@ -20,55 +25,71 @@
 
 <pre>⚡️    Fun fact‎ I am quite funny</pre>
 
+<!-- Line divider -->
+<img src="https://user-images.githubusercontent.com/40994679/205493787-f78d782e-3f18-4759-b2cd-6f8debe25250.png" width="100%" height="1px"/>
 
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="5px"/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-‎<!-- Twitter ‎ ‎ -->‎ ‎ 
-<a href="https://twitter.com/bhuia_sumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhuia_sumit"  height="50" width="50" /></a>‎ ‎
-‎<!-- LinkedIn ‎ ‎ -->‎ ‎ ‎ ‎ ‎ 
-<a href="https://linkedin.com/in/sumitbhuia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumitbhuia"  height="50" width="50" /></a>‎ ‎
-<!-- Instagram --> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-<a href="https://instagram.com/bsumitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bsumitt"  height="50" width="50" /></a>‎  ‎ ‎ 
+<!-- CONNECT WIHT ME -->
+<p align="center" > 
+  <img height="65" src="https://user-images.githubusercontent.com/40994679/205493782-2373ccad-b2a1-4eeb-9f7d-6a975c5b552c.png" />
 </p>
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="5px"/>
+ <p align="center">
+ <a href="https://instagram.com/bsumitt">  <img src="https://skillicons.dev/icons?i=instagram"/>
+ </a>
+ <a href="https://linkedin.com/"sumitbhuia">  <img src="https://skillicons.dev/icons?i=linkedin"/>
+ </a> 
+  <a href="https://twitter.com/bhuia_sumit">  <img src="https://skillicons.dev/icons?i=twitter"/>
+ </a>
+ </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- ‎<!-- Android ‎ ‎ -->‎ 
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a>‎ ‎ ‎
- ‎<!-- C programming ‎ ‎ -->‎ ‎ ‎
- ‎<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>‎ ‎ ‎ ‎ ‎ ‎</a>
- ‎<!-- C++ programming ‎ ‎ -->‎ 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
- ‎<!-- Git‎ -->‎ ‎ ‎ ‎ ‎ ‎ 
- ‎<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>‎ 
- ‎<!-- Kotlin ‎ ‎ -->‎ ‎ ‎ ‎ ‎ ‎
- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> </a>‎ ‎ 
- ‎<!-- Linux ‎ ‎ -->‎ ‎ ‎ ‎ 
- ‎<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> </p>
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="5px"/>
 
+<!-- Line divider -->
+<img src="https://user-images.githubusercontent.com/40994679/205493787-f78d782e-3f18-4759-b2cd-6f8debe25250.png" width="100%" height="1px"/>
+
+
+<!-- Tools -->
+<p align="center"> 
+<img height="65" src="https://user-images.githubusercontent.com/40994679/205493785-09b74068-6048-48ed-b2cc-3c9e73a93853.png" />
+</p>
+<p align="center">
+ <a>  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,c,cpp,git,github,linux,vscode,octave,matlab,markdown,gradle "/>
+ </a> </p>
+
+<!-- Line divider -->
+<img src="https://user-images.githubusercontent.com/40994679/205493787-f78d782e-3f18-4759-b2cd-6f8debe25250.png" width="100%" height="1px"/>
+
+
+<p align="center"> 
+<img height="65" src="https://user-images.githubusercontent.com/40994679/205493791-45dda45a-cc9f-4e13-8d4e-0dcaa102b2be.png" />
+</p>
+
+<!-- Github state -->
 <table align="center">
 <tr>
 <td>
-<a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitbhuia&show_icons=true&locale=en&theme=radical&hide_border=true" alt=“Sumit’s GitHub stat” height="200" /></a>
+<a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitbhuia&show_icons=true&locale=en&theme=merko&hide_border=true" alt=“Sumit’s GitHub stat” height="200" /></a>
 </td>
 <td>
-<a ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbhuia&theme=radical&hide_border=true" alt=“Sumit’s GitHub stats”  height="200" /></a>
+<a ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbhuia&theme=merko&hide_border=true" alt=“Sumit’s GitHub stats”  height="200" /></a>
 </td>
 </tr>
 </table>
 
 <p align="center"><a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitbhuia&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitbhuia&show_icons=true&locale=en&layout=compact&theme=merko&hide_border=true" /></a>
 </a></p>
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="5px"/>
+<!-- Line divider -->
+<img src="https://user-images.githubusercontent.com/40994679/205493787-f78d782e-3f18-4759-b2cd-6f8debe25250.png" width="100%" height="1px"/>
+
+<!-- Random quotes -->
+<p align="center">
+ <a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
+  </a>
+ </p>
 
 <p align="center"><br><br>
   <samp>
