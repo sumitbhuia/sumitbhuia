@@ -2,9 +2,10 @@
 
 
 <!-- Animated name -->
+
 <h1 align="center">
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=42&pause=500&color=6cc644&center=true&vCenter=true&width=850&height=100&lines=I'm+Sumit+Bhuia!;Android DEV from India">
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=42&pause=500&color=6CC644&center=true&vCenter=true&width=850&height=100&lines=I'm+Sumit+Bhuia!;Android DEV from India">
   </a>
 </h1>
  
