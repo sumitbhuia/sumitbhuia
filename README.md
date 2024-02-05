@@ -1,5 +1,3 @@
-![MasterHead](https://www.linkpicture.com/q/output-onlinegiftools_7.gif)
-
 
 <!-- Animated name -->
 
@@ -18,23 +16,19 @@
 
 <!-- Written About Section stuff -->
 
-<pre>🌱   ‎ I’m currently learning Android Development</pre>
+🌱   ‎ I’m currently learning Android Development
 
-<pre>🦾    Ask me about Kotlin,Android FrameWork</pre>
+🦾    Ask me about Kotlin,Android FrameWork
 
-<pre>💬    How to reach me sumitbhuia100@gmail.com</pre>
+💬    How to reach me sumitbhuia100@gmail.com
 
-<pre>⚡️    Fun fact‎ I am quite funny</pre>
+⚡️    Fun fact‎ I am quite funny</prev>
 
 <!-- Line divider -->
 <img src="https://user-images.githubusercontent.com/40994679/205493787-f78d782e-3f18-4759-b2cd-6f8debe25250.png" width="100%" height="1px"/>
 
 
 <!-- CONNECT WIHT ME -->
-<p align="center" > 
-  <img height="65" src="https://user-images.githubusercontent.com/40994679/205493782-2373ccad-b2a1-4eeb-9f7d-6a975c5b552c.png" />
-</p>
-
  <p align="center">
  <a href="https://instagram.com/bsumitt">  <img src="https://skillicons.dev/icons?i=instagram"/>
  </a>
@@ -51,9 +45,6 @@
 
 
 <!-- Tools -->
-<p align="center"> 
-<img height="65" src="https://user-images.githubusercontent.com/40994679/205493785-09b74068-6048-48ed-b2cc-3c9e73a93853.png" />
-</p>
 <p align="center">
  <a>  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,c,cpp,git,github,linux,vscode,octave,matlab,markdown,gradle "/>
  </a> </p>
@@ -62,11 +53,7 @@
 <img src="https://user-images.githubusercontent.com/40994679/205493787-f78d782e-3f18-4759-b2cd-6f8debe25250.png" width="100%" height="1px"/>
 
 
-<p align="center"> 
-<img height="65" src="https://user-images.githubusercontent.com/40994679/205493791-45dda45a-cc9f-4e13-8d4e-0dcaa102b2be.png" />
-</p>
-
-<!-- Github state -->
+<!-- Github stats -->
 <table align="center">
 <tr>
 <td>
