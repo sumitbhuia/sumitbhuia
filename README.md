@@ -70,7 +70,7 @@
 
 <!-- Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,prisma,postgres,aws,docker,cloudflare,workers,nginx,postman,vite,javascript,npm,mongo,express,react,nodejs,html,css,tailwind,androidstudio,kotlin,firebase,c,cpp,git,github,linux,vscode,octave,matlab,markdown,gradle"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,prometheus,grafana,redis,supabase,vercel,jest,vitest,typescript,prisma,postgres,aws,docker,cloudflare,workers,nginx,postman,vite,javascript,npm,mongo,express,react,nodejs,html,css,tailwind,androidstudio,kotlin,firebase,c,cpp,git,github,linux,vscode,octave,matlab,markdown,gradle"/>
 </p>
 
 <!-- Line divider -->
