@@ -1,7 +1,7 @@
 <!-- Animated name -->
 
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=42&pause=500&color=6CC644&center=true&vCenter=true&width=1000&height=100&lines=I'm+Sumit+Bhuia!;Super+FullStack+DEV+from+India">
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=42&pause=500&color=6CC644&center=true&vCenter=true&width=1000&height=100&lines=I'm+Sumit+Bhuia!;FullStack+DEV+from+India">
   </a>
 
 
@@ -25,13 +25,11 @@
   
   <!-- Written About Section stuff -->
   # ⛩ Welcome ようこそ！
-  
-  ### ❓ Why super, you ask?
-  Because I can build a native Android app and a full-stack website simultaneously! (Yes, I'm that cool 😎)
+  I am a full stack dev
 
   
   ### 🦾 Ask me about:
-  ```Typescript, Hono, CF-worker, EC2, S3, CloudFront, Kotlin, Android Framework```
+  ```Typescript, Hono, CF-worker, EC2, S3, CloudFront , AWS, CI/CD, automation, n8n, devops```
   
   ### 💬 How to reach me:
   sumitbhuia100@gmail.com
